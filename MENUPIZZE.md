@@ -1,36 +1,50 @@
-# Pizzeria-Piedi
-Pizzeria tor bella
+# 🍕 Pizzeria-Piedi: Menù Completo 📜
+### 📍 Tor Bella: La Vera Tradizione a Portata di Mano
 
-# **MENU PIZZE**
+Benvenuti da Pizzeria-Piedi! Ecco il nostro menù, dove ogni pizza è un capolavoro.
 
-### Pizza Margherita
-- Ingredienti: pomodoro, mozzarella fior di latte, basilico fresco, olio extravergine d'oliva
-- Descrizione: la regina delle pizze, semplice e tradizionale, simbolo della cucina napoletana.
+---
 
-### Pizza Diavola
-- Ingredienti: pomodoro, mozzarella, salame piccante, peperoncino
-- Descrizione: dal gusto deciso e speziato, amata da chi cerca un tocco di piccante.
+## ✨ Tavola Riassuntiva delle Pizze
 
-### Pizza Quattro Formaggi
-- Ingredienti: mozzarella, gorgonzola, fontina, parmigiano
-- Descrizione: cremosa e intensa, perfetta per gli amanti dei formaggi.
+| Pizza | Descrizione Breve | Ingredienti Chiave | Categoria |
+| :--- | :--- | :--- | :--- |
+| **Margherita** 🇮🇹 | La regina delle pizze, semplice e tradizionale. | Pomodoro, Mozzarella Fior di Latte, Basilico Fresco, Olio EVO. | Tradizione |
+| **Diavola** 🔥 | Gusto deciso e speziato, per chi cerca un tocco di piccante. | Pomodoro, Mozzarella, Salame Piccante, Peperoncino. | Piccante |
+| **Quattro Formaggi** 🧀 | Cremosa e intensa, perfetta per gli amanti dei formaggi. | Mozzarella, Gorgonzola, Fontina, Parmigiano. | Classica |
+| **Capricciosa** 🍄 | Ricca e variegata, un mix di sapori che soddisfa ogni palato. | Pomodoro, Mozzarella, Prosciutto Cotto, Funghi, Carciofi, Olive. | Classica |
+| **Bufalina** 🌿 | Variante raffinata della Margherita, con mozzarella DOP. | Pomodoro, Mozzarella di Bufala, Basilico, Olio EVO. | Speciale |
+| **Vegetariana** 🥕 | Colorata e leggera, ideale con verdure fresche di stagione. | Pomodoro, Mozzarella, Zucchine, Melanzane, Peperoni, Cipolla. | Veggie |
+| **Boscaiola** 🌰 | Saporita e rustica, con ingredienti tipici della tradizione contadina. | Mozzarella, Salsiccia, Funghi Porcini, Panna. | Rustica |
+| **Pistacchiosa** ⭐ | **PIZZA GOURMET!** Gusto raffinato e sorprendente. | Crema di Pistacchio, Mortadella, Burrata di Bufala. | Gourmet |
 
-### Pizza Capricciosa
-- Ingredienti: pomodoro, mozzarella, prosciutto cotto, funghi, carciofi, olive
-- Descrizione: ricca e variegata, un mix di sapori che soddisfa ogni palato.
+---
 
-### Pizza Bufalina
-- Ingredienti: pomodoro, mozzarella di bufala, basilico, olio extravergine d'oliva
-- Descrizione: variante raffinata della margherita, con mozzarella di bufala DOP.
+## 📝 Dettagli e Approfondimenti
 
-### Pizza Vegetariana
-- Ingredienti: pomodoro, mozzarella, zucchine, melanzane, peperoni, cipolla
-- Descrizione: colorata e leggera, ideale per chi ama le verdure fresche di stagione.
+### **⭐ Pistacchiosa**
+> *La nostra specialità gourmet: un'esperienza di gusto che unisce la dolcezza del pistacchio alla sapidità della mortadella e alla cremosità della burrata di bufala.*
 
-### Pizza Boscaiola
-- Ingredienti: mozzarella, salsiccia, funghi porcini, panna
-- Descrizione: saporita e rustica, con ingredienti tipici della tradizione contadina.
+### **🇮🇹 Margherita**
+> *La classica intramontabile, simbolo della cucina napoletana.*
 
-### Pizza Pistacchiosa
-- Ingredienti: crema di pistacchio, mortadella, burrata di bufala
-- Descrizione: una pizza gourmet dal gusto raffinato, che unisce la dolcezza del pistacchio alla sapidità della mortadella e alla cremosità della burrata di bufala.
+### **🔥 Diavola**
+> *Il sapore deciso per gli amanti delle sensazioni forti.*
+
+### **🧀 Quattro Formaggi**
+> *Un abbraccio cremoso di sapori intensi.*
+
+### **🍄 Capricciosa**
+> *Un piatto ricco e completo, dove non manca nulla.*
+
+### **🌿 Bufalina**
+> *La nobiltà della mozzarella di bufala su base tradizionale.*
+
+### **🥕 Vegetariana**
+> *Freschezza e leggerezza con il meglio dell'orto.*
+
+### **🌰 Boscaiola**
+> *I sapori autentici e rustici della terra.*
+
+---
+*Vieni a trovarci a Tor Bella o ordina la tua pizza preferita!*
